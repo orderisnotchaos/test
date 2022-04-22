@@ -1,3 +1,9 @@
 una nota no muy nota porque el que anota no lo nota
 
+<<<<<<< HEAD
 y otra prueba mas
+=======
+
+
+escribiendo en la linea 5
+>>>>>>> e1f136965dc73340eb29e9a8900f2123bdc33cc4
